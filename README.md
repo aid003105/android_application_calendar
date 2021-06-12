@@ -1,1 +1,2 @@
-# android_application_calendar
+This is my first application on Android Studio
+Created by Kotlin
